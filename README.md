@@ -23,6 +23,6 @@
 - apt install python3 -y 
 - cd ScrapNow
 - pip install -r requirements.txt
-- python3 scrapnow.py
+- python3 scrapnow.py example.com
 
 ------------
