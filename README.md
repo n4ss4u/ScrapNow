@@ -1,5 +1,5 @@
 # ScrapNow
-### Extrae información de un sitio web a travéz de una url: (servidores dns, Ipv4, ipv6, cabeceras  de respesta, servidor de correo, etc...)
+### Extrae información de un sitio web a travéz de una url: (servidores dns, Ipv4, ipv6, cabeceras  de respuestas, servidores de correo, etc...)
 
 ------------
 
