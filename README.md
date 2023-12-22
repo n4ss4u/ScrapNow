@@ -4,6 +4,7 @@
 ------------
 
 # Imagen
+Ejemplo de uso: scrapnow.py https://example.com
 ![No pudo cargar la imagen...](https://github.com/n4ss4u/ScrapNow/blob/main/image.jpg)
 
 ------------
