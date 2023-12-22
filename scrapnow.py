@@ -22,7 +22,7 @@ elif platform.system() == "Linux":
 
 response = requests.get("https://" + target)
 
-
+print("COMUNIDAD DE TELEGRAM: https://t.me/agoralatam\n")
 #OBTENER INFORMACION BÁSICA 
 print(f.RESET + "══════════ INFORMACION BASICA ═════════")
 domain_info = whois.whois(target)
