@@ -10,7 +10,7 @@ Ejemplo de uso: scrapnow.py https://example.com
 
 # Características principales
 - Obtiene información básica de un sitio web (Compañia, Fecha de creación del certificado, Fecha de expiración de certificdo, etc..)
-- Ontiene servidores DNS
+- Obtiene servidores DNS
 - Obtiene servidores de correo
 - Obtiene IPV4 e IPV6
 - Obtiene lista de verificadores dns
