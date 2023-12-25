@@ -19,7 +19,8 @@ Ejemplo de uso: scrapnow.py https://example.com
 
 # SO donde ha sido probada
 - Termux
-- Ubutu
+- Ubuntu
+- Debian
 - Kali
 - Windows 10
 ------------
